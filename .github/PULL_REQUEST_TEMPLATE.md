@@ -5,7 +5,7 @@ Mention any key implementation details, edge cases, or design decisions.
 
 > Example:  
 > - Implemented TODO creation form  
-> - Built REST API using Express and MongoDB  
+> - Built REST API
 > - Connected frontend and backend for task management
 
 ---
