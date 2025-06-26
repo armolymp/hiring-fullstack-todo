@@ -98,6 +98,7 @@ You are encouraged to use **Mongoose** for schema modeling.
 - User-friendly error messages
 - Optimistic UI updates
 - Nice touches in UX (e.g., animations, transitions)
+- Monorepo setup using an appropriate technology
 
 ---
 
