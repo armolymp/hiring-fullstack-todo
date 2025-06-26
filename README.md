@@ -1,8 +1,8 @@
-# 📝 MERN Stack Take-home Assignment – TODO App
+# 📝 Full Stack Take-home Assignment – TODO App
 
 ## 🧠 Objective
 
-This exercise is intended to evaluate your understanding of full-stack development using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+This exercise is intended to evaluate your understanding of full-stack development using your preferred stack.
 
 You’ll build a simple **TODO app** with basic task management functionality, covering both frontend and backend.
 
@@ -11,8 +11,8 @@ You’ll build a simple **TODO app** with basic task management functionality, c
 ## 📦 Tech Stack Requirements
 
 - **Frontend:** React.js
-- **Backend:** Node.js with Express.js
-- **Database:** MongoDB (Atlas or local)
+- **Backend:** Node.js with Express.js is preferred. But you may choose your preferred backend technology.
+- **Database:** MongoDB or any other Database technologies
 
 You are free to use any UI libraries or tools that improve your productivity.
 
@@ -59,7 +59,7 @@ Your Express backend should expose the following RESTful API endpoints:
 | PATCH  | `/api/todos/:id/done`   | Toggle the `done` status         |
 | DELETE | `/api/todos/:id`        | Delete a TODO                    |
 
-### MongoDB Model Example
+### Database Model Example
 
 ```json
 {
@@ -67,8 +67,8 @@ Your Express backend should expose the following RESTful API endpoints:
   "title": "string",
   "description": "string (optional)",
   "done": "boolean",
-  "createdAt": "ISO Date",
-  "updatedAt": "ISO Date"
+  "createdAt": "Timestamp",
+  "updatedAt": "Timestamp"
 }
 ```
 
