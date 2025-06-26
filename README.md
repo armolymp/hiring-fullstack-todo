@@ -126,7 +126,7 @@ This task is expected to take **6–8 hours**. Please don’t worry about making
 
 ## ✅ Evaluation Criteria
 
-- Proper use of React, Express, and MongoDB
+- Proper use of chosen stack
 - RESTful API structure and usage
 - Code readability and organization
 - Functional completeness of required features
