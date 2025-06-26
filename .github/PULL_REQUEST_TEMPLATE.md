@@ -4,9 +4,9 @@ Briefly describe the features you’ve implemented in this PR.
 Mention any key implementation details, edge cases, or design decisions.
 
 > Example:  
-> - Implemented task creation form  
-> - Added toggle functionality for task completion  
-> - Connected to the backend to fetch and mutate tasks
+> - Implemented TODO creation form  
+> - Built REST API using Express and MongoDB  
+> - Connected frontend and backend for task management
 
 ---
 
@@ -45,11 +45,14 @@ List any known bugs, incomplete features, or assumptions made during implementat
 
 ## ✅ Checklist
 
-- [ ] Task list renders from Supabase
-- [ ] Tasks can be added
-- [ ] Tasks can be marked complete/incomplete
+- [ ] Frontend is built using React
+- [ ] Database tech is connected and data persists correctly
+- [ ] Tasks can be viewed
+- [ ] Tasks can be created
+- [ ] Tasks can be edited
+- [ ] Tasks can be marked as done/undone
 - [ ] Tasks can be deleted
-- [ ] UI is responsive and functional
+- [ ] API endpoints match the spec
 - [ ] Demo video included
 - [ ] Solution rationale & user value explained
 
