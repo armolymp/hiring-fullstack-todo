@@ -140,7 +140,7 @@ This task is expected to take **6–8 hours**. Please don’t worry about making
 
 Your submission must include:
 
-- `README.md` file for the frontend with iunstructions on how to set up and run the frontend app
+- `README.md` file for the frontend with instructions on how to set up and run the frontend app
 - `README.md` file for the backend with:
   - How to set up and run the backend
   - MongoDB connection notes (e.g., Atlas or local)
